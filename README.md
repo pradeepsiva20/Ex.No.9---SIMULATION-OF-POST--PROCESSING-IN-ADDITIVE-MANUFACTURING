@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.9  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/R-Guruprasad/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390308/7a045b77-183b-4e7d-adea-8c1a930c8e0f)
+![image](https://github.com/R-Guruprasad/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390308/047b3edd-9476-442d-b307-987ed12fb63f)
+![image](https://github.com/R-Guruprasad/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390308/d48090e9-adeb-460b-8b52-5500e98895cd)
+![image](https://github.com/R-Guruprasad/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390308/755b7d7a-ede4-4fd4-b2fb-1a541e74bf89)
+![image](https://github.com/R-Guruprasad/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119390308/f035c1dd-8166-4705-b30a-0a0025017de6)
+
+### Name: PRADEEP S
+### Register Number: 212222100034
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
